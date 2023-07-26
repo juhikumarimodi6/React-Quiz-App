@@ -23,7 +23,10 @@ The React Quiz App is a web application designed to allow users to take quizzes.
 
 ## Demo
 
-A live demo of the React Quiz App can be found at [https://www.example.com/react-quiz-app](Quiz-app-video.webm)
+A live demo of the React Quiz App in action:
+
+[Quiz-app-video.webm](https://github.com/juhikumarimodi6/React-Quiz-App/assets/71226446/acaf0200-a984-4d82-828a-59b8c97360d6)
+
 
 ## Installation
 
